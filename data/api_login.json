@@ -1,0 +1,10 @@
+{
+    "sonova.fremont.api@https://telecovid.earconnect.de": {
+        "server": "https://telecovid.earconnect.de",
+        "username": "sonova.fremont.api",
+        "last_login": "2021-03-23 22:08:50.763893",
+        "last_login_resp": true,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNvbm92YS5mcmVtb250LmFwaSIsInJlY2VpdmVyX3NlcmlhbCI6IiIsImV4cCI6MTYxNjYwNTczMH0.14wY5tKsam18K60jnNRIHk3MS2nx3vbdz1fRlEtNtqY",
+        "token_expiration": "2021-03-24 10:08:50"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "simulation_speed": 1,
+  "delay_between_simulations": 2,
+  "server": "http://localhost:8888",
+  "simulation_database": "simulation_db",
+  "receiver_serials": ["E46B2V", "5C3VGC", "NQYSN5"],
+  "close_and_open_df": false,
+  "rec_cycles_step": 900,
+  "rec_cycles_time": 180,
+  "send": true,
+  "send_partially": true,
+  "generate_rawdata": false,
+  "send_rawdata_partially": true
+}

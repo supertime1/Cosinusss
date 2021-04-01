@@ -1,0 +1,10 @@
+glob:__pycache__/
+glob:*.orig
+scripts/df_analysis/
+scripts/df_analysis/
+scripts/multi_day_speed_simulator_config.json
+tests/integration/results.html
+tests/results.html
+tests/unit/results.html
+.pytest_cache/
+scripts/simulation_data_E46B2V/
